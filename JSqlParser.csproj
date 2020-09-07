@@ -1,0 +1,7 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFramework>netstandard2.1</TargetFramework>
+        <NuspecFile>JSqlParser.nuspec</NuspecFile>
+        <IncludeBuiltProjectOutputGroup>false</IncludeBuiltProjectOutputGroup>
+    </PropertyGroup>
+</Project>
